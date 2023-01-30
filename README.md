@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Sabrina Bisol 👋
 
 - 🔭 Eu trabalho com Delphi
-- 🌱 Estudando Flutter 
+- 🌱 Estudando Flutter e Java
 - 😄 Pronouns: ela/dela
 
 <div align="center">
