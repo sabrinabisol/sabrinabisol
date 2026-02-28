@@ -13,9 +13,9 @@
 
 ## 📊 GitHub Stats / Estatísticas do GitHub
 
-<img align="center" src="https://gitmystat.vercel.app/api?username=sabrinabisol&theme=radical" alt="GitHub Stats" height="180"/>
+<img align="center" src="https://gitmystat.vercel.app/?username=sabrinabisol&theme=dark" alt="GitHub Stats" height="180"/>
 
-<img align="center" src="https://gitmystat.vercel.app/api/top-langs?username=sabrinabisol&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+<img align="center" src="https://gitmystat.vercel.app/?username=sabrinabisol&layout=compact&theme=dark" alt="Top Languages" height="180"/>
 
 ---
 
