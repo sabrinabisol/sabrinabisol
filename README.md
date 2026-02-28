@@ -12,11 +12,10 @@
 ---
 
 ## 📊 GitHub Stats / Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sabrinabisol&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinabisol&layout=compact&langs_count=7&theme=synthwave"/>
-</div>
+<!-- Card de atividades -->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabrinabisol&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
+<!-- Card de linguagens mais usadas -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinabisol&layout=compact&langs_count=7&theme=synthwave" alt="Top Languages" height="180"/>
 
 ---
 
