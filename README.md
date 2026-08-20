@@ -1,11 +1,5 @@
-# 🇺🇸 Hi there! I'm Sabrina Bisol 👋  
-# 🇧🇷 Olá! Eu sou a Sabrina Bisol 👋  
+# Olá! Eu sou a Sabrina Bisol 👋  
 
-🇺🇸  
-💻 Software Developer working with Delphi  
-🌱 Currently studying C# and improving my backend skills  
-
-🇧🇷  
 💻 Desenvolvedora trabalhando com Delphi  
 🌱 Estudando C# e aprimorando habilidades em backend  
 
