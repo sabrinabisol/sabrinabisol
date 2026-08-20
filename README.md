@@ -5,14 +5,6 @@
 
 ---
 
-## 📊 GitHub Stats / Estatísticas do GitHub
-
-<img align="center" src="https://gitmystat.vercel.app/?username=sabrinabisol&theme=dark" alt="GitHub Stats" height="180"/>
-
-<img align="center" src="https://gitmystat.vercel.app/?username=sabrinabisol&layout=compact&theme=dark" alt="Top Languages" height="180"/>
-
----
-
 ## 🚀 Technologies & Tools / Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br>
